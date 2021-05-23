@@ -1,0 +1,15 @@
+{
+  "name": "nikhil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "start-server":"node demo.js"
+  },
+  "author": "uv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
